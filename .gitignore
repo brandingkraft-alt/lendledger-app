@@ -1,0 +1,57 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+*.lock
+
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.expo/
+.expo-shared/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.production
+*.key
+*.pem
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+secrets/
+credentials/
+firebase-config.json
+google-services.json
+GoogleService-Info.plist
